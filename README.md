@@ -1,6 +1,6 @@
 # Using Fast JSON API
 
-## Learning Goals
+## Learning Goals 
 
 - Introduce the Fast JSON API gem
 - Create serializers using the Fast JSON API gem
